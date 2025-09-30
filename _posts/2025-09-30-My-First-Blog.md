@@ -1,6 +1,6 @@
 ---
 title: "My First Blog"
-date: 2025-09-D30
+date: 2025-09-30
 ---
 
 Hello, I am testing my brand new blog.
